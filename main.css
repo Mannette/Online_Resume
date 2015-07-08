@@ -1,0 +1,31 @@
+body {
+  background-color:#054a67;
+  font-family: "Titillium Web", sans-serif;
+}
+
+h1, h2 {
+  font-family: "Titillium Web", sans-serif;
+}
+
+#heading {
+  color: #b86a00;
+}
+
+.lead {
+  font-style: italic;
+}
+
+.container {
+  padding: 50px;
+  max-width:800px;
+  background-color: #05cd5f, 0.53;
+}
+
+img {
+  height:50%; width:50%;
+}
+
+.text {
+  color:#ec8628;
+  font-size:130%;
+}
